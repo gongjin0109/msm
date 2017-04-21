@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="qhfaxServer:war exploded">
+    <output-path>F:/IdeaProjects/QhfaxServer/target/qhfaxServer</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="qhfaxServer" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="F:/IdeaProjects/QhfaxServer/target/qhfaxServer/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="qhfaxServer/web/Web" />
+    </root>
+  </artifact>
+</component>

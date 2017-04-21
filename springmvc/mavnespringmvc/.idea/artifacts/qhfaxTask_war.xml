@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qhfaxTask:war">
+    <output-path>F:/IdeaProjects/QhfaxTask/target</output-path>
+    <root id="archive" name="qhfaxTask.war">
+      <element id="artifact" artifact-name="qhfaxTask:war exploded" />
+    </root>
+  </artifact>
+</component>

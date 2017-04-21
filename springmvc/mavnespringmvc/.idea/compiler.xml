@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mavnespringmvc" />
+        <module name="WIFIProbeAnalysis_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mavnespringmvc" target="1.5" />
+      <module name="qhfaxCore" target="1.7" />
+      <module name="qhfaxServer" target="1.5" />
+      <module name="qhfaxSOA" target="1.5" />
+      <module name="qhfaxTask" target="1.5" />
+      <module name="qhfaxWeb" target="1.5" />
+      <module name="WIFIProbeAnalysis_web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
